@@ -8,11 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kareem1elsaid" alt="kareem1elsaid" /></a> </p>
 
-- 🌱 I’m currently learning **web develpor backend and Framwork:React,Django**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Kareem1Elsaid?tab=repositories](https://github.com/Kareem1Elsaid?tab=repositories)
-
-- 💬 Ask me about **react,django**
 
 - 📫 How to reach me **kareemelsaidkhallaf@gmail.com**
 
@@ -37,11 +33,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kareem1elsaid" alt="kareem1elsaid" /></a> </p>
 
-- 🌱 I’m currently learning **web develpor backend and Framwork:React,Django**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Kareem1Elsaid?tab=repositories](https://github.com/Kareem1Elsaid?tab=repositories)
-
-- 💬 Ask me about **react,django**
 
 - 📫 How to reach me **kareemelsaidkhallaf@gmail.com**
 
